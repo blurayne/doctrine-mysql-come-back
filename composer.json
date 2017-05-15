@@ -1,5 +1,6 @@
 {
-    "name": "facile-it/doctrine-mysql-come-back",
+    
+    "name": "facile-it/doctrine-mysql-come-back-murks",
     "description": "Auto reconnect on Doctrine MySql has gone away exceptions on doctrine/dbal",
     "keywords": ["mysql","doctrine","reconnect","refresh","connection","has gone away","exception"],
     "require": {
